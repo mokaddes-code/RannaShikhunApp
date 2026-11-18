@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">রান্না শিখুন</string>
+    <string name="error_title">ইন্টারনেট সংযোগ নেই</string>
+    <string name="error_message">ইন্টারনেট সংযোগ চালু করে আবার চেষ্টা করুন।</string>
+    <string name="retry">আবার চেষ্টা করুন</string>
+</resources>
